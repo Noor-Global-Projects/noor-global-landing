@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UDCXKDG9M9.global.noor",
+        "paths": ["/invitation", "/invitation/*", "/invitation?*"]
+      }
+    ]
+  }
+}

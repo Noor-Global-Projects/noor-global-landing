@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "about": "About",
+    "features": "Features",
+    "pricing": "Pricing",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "builtWith": "Built with scholars & educators",
+    "headline1": "One App - One Path",
+    "headline2": "Deeper Connection to Your Faith",
+    "description": "An all-in-one Islamic learning platform that combines powered by smart technology and rooted in authentic knowledge.",
+    "scanQR": "Scan QR code to download app"
+  },
+  "about": {
+    "title": "Transform the Way You Learn, Memorize, and Practice",
+    "description": "Designed to support your daily Islamic journey — from Qur'an memorization and correct recitation to worship tools that keep you consistent, focused, and confident",
+    "seeHow": "See how it works"
+  },
+  "features": {
+    "title": "One Intelligent Core. Every Essential Feature",
+    "description": "All core parts of your Islamic journey are seamlessly connected - powered by a single intelligent system designed for clarity, consistency, and ease",
+    "quranAI": {
+      "title": "Quran AI",
+      "description": "Smart guidance to help you learn, recite, and memorize the Qur’an with confidence"
+    },
+    "qibla": {
+      "title": "Qibla Compass",
+      "description": "Clear and accurate Qibla direction with a calm, focused interface"
+    },
+    "education": {
+      "title": "Education",
+      "description": "Structured lessons designed to build real understanding "
+    },
+    "hadis": {
+      "title": "Hadis",
+      "description": "A rich hadith library designed for easy reading, learning, and reflection"
+    },
+    "zikr": {
+      "title": "Zikr",
+      "description": "A modern zikr experience with audio guidance and simple tracking"
+    },
+    "missedPrayers": {
+      "title": "Missed Prayers",
+      "description": "Simple tools to track and manage missed prayers with clarity"
+    }
+  },
+  "unified": {
+    "title": "A Complete Islamic Experience, Unified",
+    "description": "From learning and memorization to daily worship and remembrance, every core Islamic need is thoughtfully connected in one seamless experience."
+  },
+  "pricing": {
+    "title": "Support the Mission! Unlock the Full Experience",
+    "description": "Your subscription helps us build high-quality Islamic education, improve the platform, and make authentic learning accessible to Muslims around the world",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "free": {
+      "title": "Free",
+      "description": "A solid starting point for learning and daily practice - giving you access to essential features with no commitment",
+      "features": {
+        "aiQuran": "AI-powered Qur'an recitation (limited)",
+        "education": "Core interactive education modules",
+        "zikr": "Basic zikr & tasbeeh tools",
+        "prayerTimes": "Prayer times & azan alerts",
+        "tajweed": "Tajweed rules highlighted in ayahs",
+        "missedPrayers": "Calculate missed prayers",
+        "hadiths": "Large library of hadiths"
+      },
+      "price": "$0"
+    },
+    "premium": {
+      "title": "Premium",
+      "description": "Our advanced AI listens to your recitation in real-time, evaluating your",
+      "includes": "Includes everything in Free, plus",
+      "features": {
+        "fullAI": "Full AI-powered Quran",
+        "unlimited": "Unlimited Quran Access",
+        "fullEducation": "Full Interactive Education - Tajweed, rules & quizzes",
+        "completeZikr": "Complete Zikr Tools - tasbeeh variations, zikr audios",
+        "prayerTimes": "Prayer Times - custom alerts, azan reciters",
+        "quranRules": "Quran Rules Highlighted in every ayah",
+        "earlyAccess": "Early Access to new features"
+      },
+      "mostPopular": "Most popular",
+      "price": "$11.99",
+      "priceYearly": "$94.99"
+    },
+    "family": {
+      "title": "Family",
+      "description": "One plan that supports learning and worship for the whole family",
+      "includes": "Includes everything in Premium, plus",
+      "features": {
+        "members": "Up to 5 members under one plan",
+        "fullAI": "Full AI-powered Quran",
+        "unlimited": "Unlimited Quran Access",
+        "fullEducation": "Full Interactive Education - Tajweed, rules & quizzes",
+        "completeZikr": "Complete Zikr Tools - tasbeeh variations, zikr audios",
+        "prayerTimes": "Prayer Times - custom alerts, azan reciters",
+        "quranRules": "Quran Rules Highlighted in every ayah"
+      },
+      "price": "$31.99",
+      "priceYearly": "$199.99"
+    },
+    "perMonth": "/month",
+    "perYear": "/year"
+  },
+  "faq": {
+    "title": "Get the Clarity You Need",
+    "description": "Clear answers to help you understand Noor and get started with confidence",
+    "questions": {
+      "q1": "What is Noor, and how can it help me?",
+      "a1": "Noor is an all-in-one Islamic learning and daily worship app designed to help you learn the Qur'an with AI, improve recitation, stay consistent with zikr, and manage your daily religious practices — all in one thoughtfully built platform",
+      "q2": "Is Noor suitable for beginners?",
+      "a2": "Yes. Noor is designed for all levels — from complete beginners to advanced learners. The education and memorization features are structured step by step, so you can start at your own pace without feeling overwhelmed.",
+      "q3": "What makes Noor different from other Islamic apps?",
+      "a3": "Noor combines advanced technology, authentic Islamic content, and careful design in one experience. Features like Quran AI, real-time correction, a large multilingual hadith library, unique zikr tools, and a unified learning system are rarely found together in one app",
+      "q4": "Do I need to pay to use Noor?",
+      "a4": "You can start with the Free plan, which includes essential features for learning and daily practice. Premium and Family plans unlock the full experience and support the continued development of the platform",
+      "q5": "Can I use Noor with my family?",
+      "a5": "Yes. The Family plan allows up to five members under one subscription, making it easy for everyone at home to learn, practice, and grow together"
+    }
+  },
+  "testimonials": {
+    "title": "Trusted by Learners Around the World",
+    "description": "Real stories from people who use the app to learn, practice, and stay connected to their faith every day",
+    "items": [
+      {
+        "name": "Zaynab Xomis",
+        "role": "Student",
+        "quote": "This app completely changed how I approach Qur'an memorization.",
+        "text": "I used to struggle with consistency and didn't know if I was reciting correctly. The structure, guidance, and calm design helped me build a daily habit and feel confident in my progress for the first time"
+      },
+      {
+        "name": "Hassan Ahmad",
+        "role": "Professor",
+        "quote": "The zikr experience is something I've never seen in another Islamic app.",
+        "text": "Having categorized zikrs with audio and a beautifully designed tasbeeh makes remembrance feel intentional and focused. It's no longer just counting — it feels meaningful."
+      },
+      {
+        "name": "Sofia Muhammad",
+        "role": "Doktor",
+        "quote": "I finally understand what I'm reciting, not just repeating words.",
+        "text": "The learning sections and real-time correction helped me notice mistakes I had been making for years. It feels like having gentle guidance without pressure."
+      },
+      {
+        "name": "Mahmood Mansur",
+        "role": "IT engineer",
+        "quote": "This is the first Islamic app that actually feels complete.",
+        "text": "Prayer times, learning, zikr, and memorization all work together seamlessly. I don't need multiple apps anymore — everything is thoughtfully connected in one place."
+      }
+    ]
+  },
+  "cards": {
+    "items": [
+      {
+        "title": "Best Qibla Experience",
+        "description": "More than a compass – a visually refined Qibla screen designed to feel clear, calm, and intuitive from the first glance",
+        "features": [
+          "Unique 3D Kaaba design",
+          "Smooth, precise orientation",
+          "Distraction-free interface"
+        ],
+        "image": "/a-1.svg"
+      },
+      {
+        "title": "40K+ Hadith Library",
+        "description": "One of the largest mobile hadith libraries, currently available in four languages — thoughtfully organized for daily reading and learning",
+        "features": [
+          "40,000+ authentic hadiths",
+          "Detailed categorization",
+          "Hadith gallery"
+        ],
+        "image": "/a-2.svg"
+      },
+      {
+        "title": "Missed Prayers",
+        "description": "Understand and manage your qaza prayers with a clean, structured view that helps you move forward with confidence",
+        "features": [
+          "Smart prayer calculation",
+          "Clear progress overview",
+          "Designed for consistency"
+        ],
+        "image": "/a-3.svg"
+      },
+      {
+        "title": "Zikr - Reinvented",
+        "description": "A thoughtfully designed zikr experience with audio guidance, smart categorization, and a custom tasbeeh design you won't find in any other app",
+        "features": [
+          "Morning, evening & daily zikrs",
+          "Audio-guided remembrance",
+          "Unique tasbeeh experience"
+        ],
+        "image": "/a-4.svg"
+      },
+      {
+        "title": "Adaptive Prayer Times",
+        "description": "A living prayer screen that changes with each prayer, highlights important Islamic days, and lets you fully customize your adhan alerts",
+        "features": [
+          "Dynamic backgrounds",
+          "Important Islamic dates",
+          "Customizable prayer alarms"
+        ],
+        "image": "/a-5.svg"
+      },
+      {
+        "title": "Learn Step by Step",
+        "description": "A structured learning space covering the Arabic alphabet, tajweed, signs, and connections — designed to build real understanding",
+        "features": [
+          "Alphabet & letter connections",
+          "Tajweed & pronunciation rules",
+          "Quizzes to strengthen knowledge"
+        ],
+        "image": "/a-6.svg"
+      },
+      {
+        "title": "Learning, Turned into a Journey",
+        "description": "A visual learning map that turns education into progress — motivating users to move forward lesson by lesson",
+        "features": [
+          "Gamified lesson flow",
+          "Clear learning milestones",
+          "Specific maps for each section"
+        ],
+        "image": "/a-7.svg"
+      }
+    ]
+  },
+  "download": {
+    "title": "Begin Your Journey with Noor",
+    "description": "Download the app and take your next step toward meaningful worship, and a deeper connection to your faith"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "home": "Home",
+    "about": "About",
+    "features": "Features",
+    "pricing": "Pricing",
+    "socialConnects": "Social Connects",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "contact": "Contact",
+    "address": "Address",
+    "copyright": "All Copyrights reserved",
+    "year": "Noor Global 2025"
+  }
+}
+

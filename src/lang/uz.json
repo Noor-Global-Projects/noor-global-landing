@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "about": "Biz haqimizda",
+    "features": "Imkoniyatlar",
+    "pricing": "Narxlar",
+    "faq": "Aloqa"
+  },
+  "hero": {
+    "builtWith": "Olimlar ishtirokida",
+    "headline1": "Bitta ilova — bitta yo‘l",
+    "headline2": "E’tiqodingiz bilan chuqurroq bog‘lanish",
+    "description": "Asl manbalarga tayangan va aqlli texnologiyalar bilan yaratilgan yagona islomiy platforma",
+    "scanQR": "Yuklab olish uchun QR kodni skanerlang"
+  },
+  "about": {
+    "title": "Ta’lim va amaliyotga yangi yondashuv",
+    "description": "Qur’onni o‘rganishdan tortib kundalik ibodatgacha — yagona islomiy platforma",
+    "seeHow": "Batafsil"
+  },
+  "features": {
+    "title": "Yagona intellektual tizim",
+    "description": "Barcha asosiy funksiyalar qulaylik, aniqlik va barqarorlik uchun yagona tizimda ishlaydi",
+    "quranAI": {
+      "title": "Qur'on AI",
+      "description": "Qur’onni o‘rganish, o‘qish va yodlash uchun aqlli yordam"
+    },
+    "qibla": {
+      "title": "Qibla ",
+      "description": "Qibla yo‘nalishini aniq va tushunarli aniqlash"
+    },
+    "education": {
+      "title": "Ta'lim",
+      "description": "Chuqur va ishonchli tushunish uchun bosqichma-bosqich ta’lim"
+    },
+    "hadis": {
+      "title": "Hadis",
+      "description": "O‘qish, o‘rganish va tafakkur uchun keng hadis kutubxonasi"
+    },
+    "zikr": {
+      "title": "Zikr",
+      "description": "Audio bilan zamonaviy zikr va qulay kuzatuv"
+    },
+    "missedPrayers": {
+      "title": "Qoldirilgan namozlar",
+      "description": "Qoldirilgan namozlarni oddiy hisoblash va nazorat qilish"
+    }
+  },
+  "unified": {
+    "title": "Yagona islomiy tajriba",
+    "description": "Ta’lim va yodlashdan tortib, kundalik ibodat va tushunishgacha — barcha asosiy islomiy ehtiyojlar bir joyda"
+  },
+  "pricing": {
+    "title": "Ilm tarqalishiga hissa qo‘shing Barcha imkoniyatlarni oching",
+    "description": "Obunangiz orqali biz sifatli islomiy ta’limni rivojlantiramiz, platformani yaxshilaymiz va ilmni yanada ko‘proq insonlarga yetkazamiz",
+    "monthly": "Oylik",
+    "yearly": "Yillik",
+    "free": {
+      "title": "Bepul",
+      "description": "O'rganish va kundalik amaliyot uchun mustahkam boshlang'ich nuqta - sizga majburiyatsiz asosiy xususiyatlarni taqdim etadi",
+      "features": {
+        "aiQuran": "AI bilan Qur'on o'qish (cheklangan)",
+        "education": "Asosiy interaktiv ta'lim modullari",
+        "zikr": "Asosiy zikr va tasbeh vositalari",
+        "prayerTimes": "Namoz vaqtlari va azon ogohlantirishlari",
+        "tajweed": "Tajvid qoidalari oyatda ajratilgan",
+        "missedPrayers": "O'tkazib yuborilgan namozlarni hisoblash",
+        "hadiths": "Hadislarning katta kutubxonasi"
+      },
+      "price": "$0"
+    },
+    "premium": {
+      "title": "Premium",
+      "description": "Bizning ilg'or AI real vaqtda qiroatingizni tinglaydi va baholaydi",
+      "includes": "Bepul versiyadagi barcha narsalar, qo'shimcha",
+      "features": {
+        "fullAI": "To'liq AI bilan Qur'on",
+        "unlimited": "Cheksiz Qur'on kirishi",
+        "fullEducation": "To'liq interaktiv ta'lim - Tajvid, qoidalar va testlar",
+        "completeZikr": "To'liq zikr vositalari - tasbeh variantlari, zikr audio",
+        "prayerTimes": "Namoz vaqtlari - maxsus ogohlantirishlar, azon o'qituvchilari",
+        "quranRules": "Qur'on qoidalari har bir oyatda ajratilgan",
+        "earlyAccess": "Yangi xususiyatlarga erta kirish"
+      },
+      "mostPopular": "Eng mashhur",
+      "price": "$11.99",
+      "priceYearly": "$94.99"
+    },
+    "family": {
+      "title": "Oilaviy",
+      "description": "Butun oila uchun o'rganish va ibodatni qo'llab-quvvatlaydigan bitta reja",
+      "includes": "Premiumdagi barcha narsalar, qo'shimcha",
+      "features": {
+        "members": "Bitta reja ostida 5 tagacha a'zo",
+        "fullAI": "To'liq AI bilan Qur'on",
+        "unlimited": "Cheksiz Qur'on kirishi",
+        "fullEducation": "To'liq interaktiv ta'lim - Tajvid, qoidalar va testlar",
+        "completeZikr": "To'liq zikr vositalari - tasbeh variantlari, zikr audio",
+        "prayerTimes": "Namoz vaqtlari - maxsus ogohlantirishlar, azon o'qituvchilari",
+        "quranRules": "Qur'on qoidalari har bir oyatda ajratilgan"
+      },
+      "price": "$31.99",
+      "priceYearly": "$199.99"
+    },
+    "perMonth": "/oy",
+    "perYear": "/yil"
+  },
+  "faq": {
+    "title": "Kerakli aniq javobni oling",
+    "description": "Noor ni tushunishga va ishonch bilan boshlashga yordam beradigan aniq javoblar",
+    "questions": {
+      "q1": "Noor nima va u menga qanday yordam bera oladi?",
+      "a1": "Noor - bu sizga AI bilan Qur'on o'rganish, qiroatni yaxshilash, zikrda izchil bo'lish va kundalik diniy amaliyotlaringizni boshqarishda yordam beradigan barcha islomiy o'quv va kundalik ibodat ilovasi — barchasi bitta o'ylab qo'yilgan platformada",
+      "q2": "Noor boshlang'ichlar uchun mosmi?",
+      "a2": "Ha. Noor barcha darajalar uchun mo'ljallangan — to'liq boshlang'ichlardan ilg'or o'quvchilargacha. Ta'lim va yodlash xususiyatlari bosqichma-bosqich tuzilgan, shuning uchun siz o'zingizning tezligingizda boshlashingiz mumkin, haddan tashqari yuklangan his qilmasdan.",
+      "q3": "Noor boshqa islomiy ilovalardan nimasi bilan farq qiladi?",
+      "a3": "Noor bir tajribada ilg'or texnologiya, haqiqiy islomiy kontent va ehtiyotkor dizaynni birlashtiradi. Qur'on AI, real vaqtda tuzatish, katta ko'p tilli hadis kutubxonasi, noyob zikr vositalari va birlashgan o'rganish tizimi kabi xususiyatlar bitta ilovada birga kamdan-kam uchraydi",
+      "q4": "Noor dan foydalanish uchun pul to'lashim kerakmi?",
+      "a4": "Siz Bepul rejadan boshlashingiz mumkin, bu o'rganish va kundalik amaliyot uchun asosiy xususiyatlarni o'z ichiga oladi. Premium va Oilaviy rejalar to'liq tajribani ochadi va platformaning doimiy rivojlanishini qo'llab-quvvatlaydi",
+      "q5": "Noor ni oilam bilan ishlatishim mumkinmi?",
+      "a5": "Ha. Oilaviy reja bitta obuna ostida besh tagacha a'zoga ruxsat beradi, bu uydagi hamma uchun birga o'rganish, amaliyot qilish va rivojlanishni osonlashtiradi"
+    }
+  },
+  "testimonials": {
+    "title": "Butun dunyo bo‘ylab ishonch",
+    "description": "Ilovani har kuni o‘rganish, amaliyot va e’tiqod bilan bog‘lanish uchun ishlatayotgan insonlarning haqiqiy tajribalari",
+    "items": [
+      {
+        "name": "Zaynab Xomis",
+        "role": "Talaba",
+        "quote": "Bu ilova Qur'on yodlashga yondashish usulimni butunlay o'zgartirdi.",
+        "text": "Men izchillik bilan kurashardim va to'g'ri o'qiyotganimni bilmasdim. Struktura, yo'riqnoma va sokin dizayn kunlik odatni shakllantirishga va birinchi marta taraqqiyotimga ishonch his qilishga yordam berdi"
+      },
+      {
+        "name": "Hassan Ahmad",
+        "role": "Professor",
+        "quote": "Zikr tajribasi boshqa islomiy ilovada hech qachon ko'rmagan narsam.",
+        "text": "Audio bilan kategorizatsiya qilingan zikrlar va chiroyli dizayn qilingan tasbeh eslashni maqsadli va e'tiborli qiladi. Bu endi faqat sanash emas — bu ma'noli his qilinadi."
+      },
+      {
+        "name": "Sofia Muhammad",
+        "role": "Doktor",
+        "quote": "Men nihoyat nima o'qiyotganimni tushundim, nafaqat so'zlarni takrorlayman.",
+        "text": "O'rganish bo'limlari va real vaqtda tuzatish yillar davomida qilayotgan xatolarimni payqashga yordam berdi. Bu bosimlarsiz yumshoq yo'riqnoma bor kabi his qilinadi."
+      },
+      {
+        "name": "Mahmood Mansur",
+        "role": "IT muhandisi",
+        "quote": "Bu haqiqatan ham to'liq his qiladigan birinchi islomiy ilova.",
+        "text": "Namoz vaqtlari, o'rganish, zikr va yodlash barchasi silliq ishlaydi. Endi bir nechta ilovaga ehtiyoj yo'q — hamma narsa bitta joyda o'ylab qo'yilgan holda bog'langan."
+      }
+    ]
+  },
+  "cards": {
+    "items": [
+      {
+        "title": "Eng yaxshi Qibla tajribasi",
+        "description": "Qiblani bir qarashda tushunarli va sokin ko‘rinishda taqdim etuvchi puxta o‘ylangan ekran",
+        "features": [
+          "Noyob 3D Ka'ba dizayni",
+          "Silliq, aniq orientatsiya",
+          "Diqqatni chalg'itmaydigan interfeys"
+        ],
+        "image": "/a-1.svg"
+      },
+      {
+        "title": "40 000+ hadislar",
+        "description": "Bir nechta tillarda mavjud bo‘lgan eng yirik hadis kutubxonalaridan biri",
+        "features": [
+          "Ishonchli manbalar",
+          "Batafsil kategorizatsiya",
+          "Hadis galereyasi"
+        ],
+        "image": "/a-2.svg"
+      },
+      {
+        "title": "Qazo namozlar",
+        "description": "Qoldirilgan namozlarni qulay hisoblash va nazorat qilish",
+        "features": [
+          "Aqlli namoz hisobi",
+          "Progressni aniq ko‘rish",
+          "Kundalik amaliyot uchun"
+        ],
+        "image": "/a-3.svg"
+      },
+      {
+        "title": "Zamonaviy zikr",
+        "description": "Audio yo‘riqnoma, aqlli kategoriyalar va noyob tasbeh dizayni bilan puxta ishlab chiqilgan zikr tajribasi",
+        "features": [
+          "Tonggi va kechki zikrlar",
+          "Audio yo‘riqnoma",
+          "Noyob tasbeh"
+        ],
+        "image": "/a-4.svg"
+      },
+      {
+        "title": "Moslashuvchan namoz vaqtlari",
+        "description": "Muhim islomiy sanalar bilan jonli namoz ekrani",
+        "features": [
+          "O‘zgaruvchan fon",
+          "Islomiy sanalar",
+          "Moslashuvchan ogohlantirishlar"
+        ],
+        "image": "/a-5.svg"
+      },
+      {
+        "title": "Bosqichma-bosqich ta’lim",
+        "description": "Ishonchli o‘rganish uchun aniq va tushunarli tuzilma",
+        "features": [
+          "Alifbo va harflar bog‘lanishi",
+          "Tajvid va talaffuz ",
+          "Bilimni mustahkamlash"
+        ],
+        "image": "/a-6.svg"
+      },
+      {
+        "title": "Ta’limni sayohatga aylantiring",
+        "description": "Darslarni bosqichma-bosqich rivojlanishga aylantiruvchi vizual ta’lim xaritasi",
+        "features": [
+          "O‘yinli ta’lim formati",
+          "Aniq o'rganish bosqichlari",
+          "Har bir bo‘lim uchun alohida xaritalar"
+        ],
+        "image": "/a-7.svg"
+      }
+    ]
+  },
+  "download": {
+    "title": "Noor bilan safaringizni boshlang",
+    "description": "Ilovani yuklab oling va ma'noli ibodat va e'tiqodingiz bilan chuqurroq aloqaga qadam qo'ying"
+  },
+  "footer": {
+    "navigation": "Navigatsiya",
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "features": "Xususiyatlar",
+    "pricing": "Narxlar",
+    "socialConnects": "Ijtimoiy tarmoqlar",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "contact": "Aloqa",
+    "address": "Manzil",
+    "copyright": "Barcha huquqlar himoyalangan",
+    "year": "Noor Global 2025"
+  }
+}
+
