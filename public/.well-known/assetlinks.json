@@ -1,5 +1,4 @@
-[
-  {
+[{
     "relation": [
       "delegate_permission/common.handle_all_urls",
       "delegate_permission/common.get_login_creds"
@@ -8,8 +7,8 @@
       "namespace": "android_app",
       "package_name": "global.noor.noor",
       "sha256_cert_fingerprints": [
-        "01:EC:F3:95:78:60:24:AF:FD:6D:2E:CD:FF:1D:CC:2B:81:D5:06:DC:D8:4E:5A:00:45:B0:84:38:E2:1F:AB:73"
+        "01:EC:F3:95:78:60:24:AF:FD:6D:2E:CD:FF:1D:CC:2B:81:D5:06:DC:D8:4E:5A:00:45:B0:84:38:E2:1F:AB:73",
+        "27:52:FF:9D:4D:0F:4D:53:79:E1:D3:6B:38:55:DF:20:E8:8B:BB:9A:94:7F:20:C1:BE:3E:75:AA:32:87:88:90"
       ]
     }
-  }
-]
+  }]
